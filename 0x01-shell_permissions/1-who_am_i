@@ -1,2 +1,2 @@
-#!/Bbin/bash
+#!/bin/bash
 id -un
